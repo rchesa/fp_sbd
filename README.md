@@ -47,7 +47,7 @@ END //
 DELIMITER ;
 ```
 
-# FUNCTION
+## FUNCTION
 ```
 DELIMITER //
 CREATE FUNCTION tugas_uncomplete(p_pengguna_id INT)
